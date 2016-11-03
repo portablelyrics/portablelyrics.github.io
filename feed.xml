@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Start Bootstrap</title>
-    <description>Portable Lyrics
+    <title>Pearl ~ Portable Lyrics</title>
+    <description>Portable Lyrics For Everyone!
 </description>
     <link>https://portablelyrics.github.io/</link>
     <atom:link href="https://portablelyrics.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Nov 2016 22:39:50 +0000</pubDate>
-    <lastBuildDate>Thu, 03 Nov 2016 22:39:50 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Nov 2016 22:47:48 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Nov 2016 22:47:48 +0000</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
