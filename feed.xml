@@ -4,10 +4,10 @@
     <title>Coolderry</title>
     <description>Introducing Pearl...portable lyrics for everyone!
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 23:51:40 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 23:51:40 +0000</lastBuildDate>
+    <link>https://portablelyrics.github.io/</link>
+    <atom:link href="https://portablelyrics.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Jan 2017 09:28:18 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 09:28:18 +0000</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -17,8 +17,8 @@ This is all possible because of the broad range of features in OpenLP but does r
 Moreover, Pearl has an optional wireless keyboard touchpad which is just the right size for portability and usability.&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/feature/2016/02/06/maintainable.html</link>
-        <guid isPermaLink="true">http://localhost:4000/feature/2016/02/06/maintainable.html</guid>
+        <link>https://portablelyrics.github.io/feature/2016/02/06/maintainable.html</link>
+        <guid isPermaLink="true">https://portablelyrics.github.io/feature/2016/02/06/maintainable.html</guid>
         
         
         <category>Feature</category>
@@ -34,8 +34,8 @@ Moreover, Pearl has an optional wireless keyboard touchpad which is just the rig
 &lt;p&gt;The device provides a WiFi Hotspot, with a unique SSID so more than one can operate in close proximity, for effortless connectivity. In particular this makes it possible to use any smart phone for selecting songs and controlling what is presented. When the Pearl is plugged into a network through the Ethernet port the device can provide wireless access for others to access the network. This means it is possible to set up a convenient guest wireless network if desired.&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/feature/2016/02/05/convenient.html</link>
-        <guid isPermaLink="true">http://localhost:4000/feature/2016/02/05/convenient.html</guid>
+        <link>https://portablelyrics.github.io/feature/2016/02/05/convenient.html</link>
+        <guid isPermaLink="true">https://portablelyrics.github.io/feature/2016/02/05/convenient.html</guid>
         
         
         <category>Feature</category>
@@ -51,8 +51,8 @@ Moreover, Pearl has an optional wireless keyboard touchpad which is just the rig
 &lt;p&gt;Pearl uses the feature rich &lt;a href=&quot;https://openlp.org/&quot;&gt;OpenLP&lt;/a&gt; to manage and present song lyrics. OpenLP is free open source Church worship presentation software. Being open source also means that the developers are continuously working to improve this application, and welcome any comments or questions users may have. Although the Pearl primarily uses, and enhances, the OpenLP Songs feature, all the other features such as support for LibreOffice presentations, Bibles, Media, Custom Slides and Stage View are all there. Do check out the OpenLP website to find out how much this amazing software application in your pocket can be put to use.&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/feature/2016/02/04/versatile.html</link>
-        <guid isPermaLink="true">http://localhost:4000/feature/2016/02/04/versatile.html</guid>
+        <link>https://portablelyrics.github.io/feature/2016/02/04/versatile.html</link>
+        <guid isPermaLink="true">https://portablelyrics.github.io/feature/2016/02/04/versatile.html</guid>
         
         
         <category>Feature</category>
@@ -68,8 +68,8 @@ Moreover, Pearl has an optional wireless keyboard touchpad which is just the rig
 &lt;p&gt;Any smartphone with a javascript enabled browser can be used to select songs. The web application interface is so intuitive anyone can run the lyrics presentation from their smartphone. Unlikely other smartphone based lyrics presentation apps, no one has to hand over their own phone to anyone else in order to run it. What’s more, there’s nothing to install if the smartphone already has a javascript enabled web browser!&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/feature/2016/02/03/easy-to-use.html</link>
-        <guid isPermaLink="true">http://localhost:4000/feature/2016/02/03/easy-to-use.html</guid>
+        <link>https://portablelyrics.github.io/feature/2016/02/03/easy-to-use.html</link>
+        <guid isPermaLink="true">https://portablelyrics.github.io/feature/2016/02/03/easy-to-use.html</guid>
         
         
         <category>Feature</category>
@@ -89,8 +89,8 @@ The wireless keyboard &amp;amp; touchpad is a convenient option to add or import
 &lt;p&gt;The Pearl has 4 USB ports which can be used to import songs from a USB flash drive or plug in an additional input device.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/feature/2016/02/02/connected.html</link>
-        <guid isPermaLink="true">http://localhost:4000/feature/2016/02/02/connected.html</guid>
+        <link>https://portablelyrics.github.io/feature/2016/02/02/connected.html</link>
+        <guid isPermaLink="true">https://portablelyrics.github.io/feature/2016/02/02/connected.html</guid>
         
         
         <category>Feature</category>
@@ -106,8 +106,8 @@ The wireless keyboard &amp;amp; touchpad is a convenient option to add or import
 &lt;p&gt;The Pearl can be discretely positioned behind, under, above or beside the TV or projector. That means it can be secured in place to. The Pearl is controlled wirelessly so no direct access is required once it is powered on.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/feature/2016/02/01/compact.html</link>
-        <guid isPermaLink="true">http://localhost:4000/feature/2016/02/01/compact.html</guid>
+        <link>https://portablelyrics.github.io/feature/2016/02/01/compact.html</link>
+        <guid isPermaLink="true">https://portablelyrics.github.io/feature/2016/02/01/compact.html</guid>
         
         
         <category>Feature</category>
